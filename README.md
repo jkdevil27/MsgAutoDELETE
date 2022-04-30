@@ -1,4 +1,4 @@
-# AutoDelete-V2
+# MsgAutoDELETE
 Delete group messages after a specific time
 
 ## Variables
@@ -15,12 +15,12 @@ Delete group messages after a specific time
 - Account used to create SESSION is a member in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/jkdevil27/MsgAutoDELETE)
 
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/Arun-TG/AutoDelete-V2
+git clone https://github.com/jkdevil27/MsgAutoDELETE
 cd AutoDelete-V2
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -29,4 +29,5 @@ python3 bot.py
 
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Arun](https://t.me/Arun_TG)
+THIS REPO IS JUST VERSION OF BOT BY 
+ [Arun]
