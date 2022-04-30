@@ -15,7 +15,7 @@ Delete group messages after a specific time
 - Account used to create SESSION is a member in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/https://github.com/jkdevil27/MsgAutoDELETE)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/github.com/jkdevil27/MsgAutoDELETE)
 
 ## Deploy in your VPS
 
