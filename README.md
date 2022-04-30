@@ -27,6 +27,7 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 IF U ARE HAVING TOROUBLE CONTACT US ON TELEGRAM 
+
 [![Deploy](https://telegra.ph/file/811dee516e504af46eb73.jpg)](https://T.ME/ASTROFLIX)
 ### Credits
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
