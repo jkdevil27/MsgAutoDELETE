@@ -22,6 +22,8 @@ Delete group messages after a specific time<p align="center">
 ## Deploy in Heroku
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jkdevil27)
 
+IF MARKED BY HEROKU FORK AND DEPLOY 
+
 ## Deploy in your VPS
 
 ```sh
