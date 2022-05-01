@@ -1,5 +1,9 @@
 # MsgAutoDELETE
-Delete group messages after a specific time
+Delete group messages after a specific time<p align="center">
+  <img src="https://telegra.ph/file/7a2468e04559a005dd009.jpg" alt="Logo">
+</p>
+<h1 align="center">
+
 [![Stars](https://img.shields.io/github/stars/jkdevil27/MsgAutoDELETE?style=flat-square&color=yellow)](https://github.com/jkdevil27/MsgAutoDELETE/stargazers)
 [![Forks](https://img.shields.io/github/forks/jkdevil27/MsgAutoDELETE?style=flat-square&color=orange)](https://github.com/jkdevil27/MsgAutoDELETE/fork)
 ## Variables
